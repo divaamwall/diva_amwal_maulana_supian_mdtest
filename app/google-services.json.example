@@ -1,0 +1,43 @@
+{
+  "_comment": "This is a placeholder. Download actual google-services.json from Firebase Console",
+  "instructions": [
+    "1. Go to Firebase Console: https://console.firebase.google.com/",
+    "2. Select your project",
+    "3. Go to Project Settings",
+    "4. Download google-services.json",
+    "5. Place it in app/ directory",
+    "6. Rename google-services.json.example to google-services.json"
+  ],
+
+  "project_info": {
+    "project_number": "YOUR_PROJECT_NUMBER",
+    "firebase_url": "https://your-project-id.firebaseio.com",
+    "project_id": "your-project-id",
+    "storage_bucket": "your-project-id.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:YOUR_APP_ID:android:YOUR_HASH",
+        "android_client_info": {
+          "package_name": "com.diva.myuserapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "YOUR_API_KEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+
+
+
